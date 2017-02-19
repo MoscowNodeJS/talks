@@ -75,3 +75,4 @@ Some interesting themes and topics for future talks:
 + Analytics of usage (mixpanel, etc)
 + System profiling
 + Writing Telegram/Slack/Facebook bots using Node.js
++ Using AI/NPL and neural networks
