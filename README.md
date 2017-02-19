@@ -71,4 +71,7 @@ Write about it in comments to [this issue](https://github.com/MoscowNodeJS/talks
 
 Some interesting themes and topics for future talks:
 
-+ Logging (Sentry, etc)
++ Error logging (Sentry, bunyan, etc)
++ Analytics of usage (mixpanel, etc)
++ System profiling
++ Writing Telegram/Slack/Facebook bots using Node.js
