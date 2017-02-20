@@ -1,6 +1,6 @@
 # Moscow Node.js Talks
 
-If you'd like to give a talk to our motley crew of Nodejs developers / users / lovers / newbies / explorers, we'd love to hear your proposal!
+If you'd like to give a talk to our motley crew of [Node.js](https://nodejs.org) developers / users / lovers / newbies / explorers, we'd love to hear your proposal!
 
 We're trying something different and using GitHub Issues for talk submissions. This way people can ask questions, give feedback and +1 their favourites. If your talk isn't scheduled for the next meetup, leave the issue open and we may invite you to give it in the future (based on theme or time constraints).
 
